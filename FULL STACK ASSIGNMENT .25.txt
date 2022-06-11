@@ -1,0 +1,15 @@
+1.
+Square brackets are lists while parentheses are tuples.
+2.
+Ierators are objects which use the next() method to get the following values of a sequence. 
+Generators are functions that produce or yield a sequence of values using the yield keyword
+3.
+If the body of a def contains yield, the function automatically becomes a generator function.
+4.
+The yield statement returns a generator object to the one who calls the function which contains yield,
+ instead of simply returning a value.
+5.
+Map function is faster than list comprehension when the formula is already defined as a function earlier.
+ So, that map function is used without lambda expression.
+
+
